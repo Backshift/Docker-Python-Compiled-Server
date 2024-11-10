@@ -1,0 +1,1 @@
+docker push monkeybusinez/pyinstaller-python-3.8-from-source:latest

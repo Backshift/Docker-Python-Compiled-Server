@@ -9,6 +9,13 @@ bash compile_and_build.sh
 bash compile.sh
 ```
 
+## Todo
+* Implement pyarmor
+```
+pip install pyarmor
+pyarmor pack -x "pyinstaller --onefile" your_script.py
+```
+
 ## Dockerfile Example of using image
 
 ```
